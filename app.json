@@ -2,7 +2,8 @@
   "expo": {
     "sdkVersion": "25.0.0",
     "name": "Newsreader App",
-    "slug": "newsreader-app-dmarbeck"
+    "slug": "newsreader-app-dmarbeck",
+    "description": "A mobile app built using React Native, Redux, Axios and thunks. Pulls news headlines from the News API https://newsapi.org/, displays the truncated headlines in a list view, allows clickthrough to a detail page, and links to the full article on the BBC news site."
 
   }
 }
